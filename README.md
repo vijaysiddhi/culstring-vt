@@ -7,17 +7,17 @@ This project focuses on clustering a dataset using DBSCAN and K-means clustering
 The dataset used for this project is 'World_development_mesurement.csv', which contains various development indicators for different countries. The dataset includes features such as Country Name, Country Code, Indicator Name, Indicator Code, and numerical values for each indicator.
 
 # Steps
-1)Data Preprocessing: The dataset is cleaned and preprocessed to handle missing values, normalize numerical features, and encode categorical features if necessary.
+1)Data Preprocessing:  The dataset is cleaned and preprocessed to handle missing values, normalize numerical features, and encode categorical features if necessary.
 
-2)Exploratory Data Analysis: Analyze the dataset to understand the distribution of features and identify potential clusters.
+2)Exploratory Data Analysis:  Analyze the dataset to understand the distribution of features and identify potential clusters.
 
-3)Clustering: Use DBSCAN and K-means clustering algorithms to cluster the data points.
+3)Clustering:  Use DBSCAN and K-means clustering algorithms to cluster the data points.
 
-4)Cluster Evaluation: Evaluate the quality of clusters using metrics such as silhouette score or inertia.
+4)Cluster Evaluation:  Evaluate the quality of clusters using metrics such as silhouette score or inertia.
 
-5)Visualization: Visualize the clusters to understand the grouping of data points.
+5)Visualization:  Visualize the clusters to understand the grouping of data points.
 
-6)Interpretation: Interpret the results and draw conclusions about the clusters.
+6)Interpretation:  Interpret the results and draw conclusions about the clusters.
 
 
 # Requirements
